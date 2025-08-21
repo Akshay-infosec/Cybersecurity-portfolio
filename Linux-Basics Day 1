@@ -1,0 +1,18 @@
+- pwd → show current directory
+- ls → list files
+- cd <dir> → change directory
+- mkdir <dir> → make new folder
+- touch <file> → create file
+- cp file1 file2 → copy file
+- mv old new → move/rename
+- rm file → remove file
+- cat file → show file contents
+- clear → clear screen
+- history → show past commands
+- whoami → show current user
+
+## Mini Task
+1. Create folder *practice*
+2. Go inside and create file *test.txt*
+3. Write something in it → echo "Hello Linux" > test.txt
+4. Display contents with → cat test.txt
